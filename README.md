@@ -6,5 +6,5 @@ Most banks have a large customer base - with different characteristics in terms 
 
 - Understanding dataset features
 - Perfrom cleaning and visualizing
-- Analyzing features to find the insights
+- Analyzing customers's spending habit based on age group, location and time
 - Perform hypothesis
